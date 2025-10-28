@@ -4,9 +4,9 @@
 
       Clone this repository and install the dependencies:
       
-      git clone https://github.com/<your-username>/repo-searcher.git
+      git clone https://github.com/Rishab-ghatge/Repo-Searcherr.git
       
-      cd repo-searcherr
+      cd Repo-Searcherr
       
       npm install
 
